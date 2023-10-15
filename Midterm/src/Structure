@@ -1,0 +1,36 @@
+LibraryManagementSystem
+|
+|-- src
+|   |
+|   |-- library
+|   |   |-- Book.java
+|   |   |-- FictionBook.java
+|   |   |-- NonFictionBook.java
+|   |   |-- MysteryBook.java
+|   |
+|   |-- user
+|   |   |-- User.java
+|   |   |-- Patron.java
+|   |   |-- Librarian.java
+|   |
+|   |-- collection
+|   |   |-- BookCollection.java
+|   |
+|   |-- search
+|   |   |-- BookSearch.java
+|
+|-- test
+|   |
+|   |-- library
+|   |   |-- BookTest.java
+|   |   |-- FictionBookTest.java
+|   |   |-- NonFictionBookTest.java
+|   |   |-- MysteryBookTest.java
+|   |
+|   |-- user
+|   |   |-- UserTest.java
+|   |   |-- PatronTest.java
+|   |   |-- LibrarianTest.java
+|
+|-- Main.java
+
